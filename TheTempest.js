@@ -1,4 +1,4 @@
-var TheTempest = [
+{"The Tempest": [
   {
     "line_number": "", 
     "speech_number": 93, 
@@ -19223,4 +19223,4 @@ var TheTempest = [
     "line_id": 93803, 
     "speaker": "PROSPERO"
   }
-]
+]}

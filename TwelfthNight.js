@@ -1,4 +1,4 @@
-var TwelfthNight = [
+{"Twelfth Night": [
   {
     "line_number": "", 
     "speech_number": 9, 
@@ -21183,4 +21183,4 @@ var TwelfthNight = [
     "line_id": 105550, 
     "speaker": "Stage Directions"
   }
-]
+]}

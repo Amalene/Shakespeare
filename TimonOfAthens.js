@@ -1,4 +1,4 @@
-var TimonOfAthens = [
+{"Timon of Athens": [
   {
     "line_number": "5.1.383", 
     "speech_number": 78, 
@@ -21295,4 +21295,4 @@ var TimonOfAthens = [
     "line_id": 96465, 
     "speaker": "Stage Directions"
   }
-]
+]}

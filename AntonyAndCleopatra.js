@@ -1,4 +1,4 @@
-var AntonyAndCleopatra = [
+{"AntonyAndCleopatra" : [
   {
     "line_number": "", 
     "speech_number": 52, 
@@ -30895,4 +30895,4 @@ var AntonyAndCleopatra = [
     "line_id": 22427, 
     "speaker": "Stage Directions"
   }
-]
+]}

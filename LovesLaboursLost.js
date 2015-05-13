@@ -1,4 +1,4 @@
-var LovesLaboursLost = [
+{"LovesLaboursLost": [
   {
     "line_number": "", 
     "speech_number": 124, 
@@ -23887,4 +23887,4 @@ var LovesLaboursLost = [
     "line_id": 55779, 
     "speaker": "Stage Directions"
   }
-]
+]}

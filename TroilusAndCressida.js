@@ -1,4 +1,4 @@
-var TroilusAndCressida = [
+{"Troilus and Cressida": [
   {
     "line_number": "", 
     "speech_number": 43, 
@@ -29687,4 +29687,4 @@ var TroilusAndCressida = [
     "line_id": 102902, 
     "speaker": "Stage Directions"
   }
-]
+]}

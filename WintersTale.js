@@ -1,4 +1,4 @@
-var WintersTale = [
+{"The Winter's Tale": [
   {
     "line_number": "", 
     "speech_number": 52, 
@@ -27911,4 +27911,4 @@ var WintersTale = [
     "line_id": 111396, 
     "speaker": "Stage Directions"
   }
-]
+]}

@@ -1,4 +1,4 @@
-var TwoGentlemenOfVerona = [
+{"Two Gentlemen of Verona": [
   {
     "line_number": "", 
     "speech_number": 127, 
@@ -18855,4 +18855,4 @@ var TwoGentlemenOfVerona = [
     "line_id": 107907, 
     "speaker": "Stage Directions"
   }
-]
+]}

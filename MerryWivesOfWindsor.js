@@ -1,4 +1,4 @@
-var MerryWivesOfWindsor = [
+{"MerryWivesOfWindsor": [
   {
     "line_number": "", 
     "speech_number": 90, 
@@ -22647,4 +22647,4 @@ var MerryWivesOfWindsor = [
     "line_id": 66996, 
     "speaker": "Stage Directions"
   }
-]
+]}

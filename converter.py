@@ -1,12 +1,13 @@
 import json
-import pickle
+import cPickle as pickle
 from collections import namedtuple
+from textblob import TextBlob
 
-Line = namedtuple('Line', 'line_number speech_number play_name text_entry line_id speaker')
+Line = namedtuple('Line', 'line_number speech_number play_name text_entry line_id speaker speaker_gender')
 #a list of named tuples
 lines = []
 
-f = open("WintersTale.js", "r+")
+f = open("AllsWellThatEndsWell.js", "r+")
 
 allPlays = {"Alls well that ends well":"All's Well That Ends Well",
             "Antony and Cleopatra":"Antony and Cleopatra",
@@ -64,10 +65,20 @@ for line in f:
         currentline+=line
     counter +=1
 
+#change this for each play
+numMen = 0
+numWomen = 0
+numSD = 0
+numUnknown = 0
+men = ["king", "duke", "bertram", "lafeu", "parolles", "rinaldo", "clown"]
+women = ["countess", "helena", "diana", "mariana"]
+
 #convert into named tuples
 #make sure that you fix the current irritating problem with stage directions and
 #speakers/line numbers
+shit = 0;
 for line in linestrings:
+    shit +=1
     line = line.split(':')
     #print line
     lineNumber = line[1].split('"')[1]
@@ -82,16 +93,68 @@ for line in linestrings:
     #print "textEntry is " + textEntry
     lineId = line[5].split(",")[0]
     #print "lineId is " + lineId
-    speaker = line[6].split(",")[0].split("}")[0].strip()
+    speaker = line[6].split(",")[0].split("}")[0].strip().lower().replace('"', '')
+    if speaker == "stage directions":
+        speakerGender = "none"
+        numSD +=1
+    elif speaker in men:
+        speakerGender = "male"
+        numMen +=1
+    elif speaker in women:
+        speakerGender = "female"
+        numWomen += 1
+    else:
+        speakerGender = "unknown"
+        if numUnknown < 20:
+            print "speaker is: " + speaker + "    " + lineNumber
+        numUnknown += 1
+        
     #print "speaker is " + speaker
-    l = Line(lineNumber, speechNumber, playName, textEntry, lineId, speaker)
+    l = Line(lineNumber, speechNumber, playName, textEntry, lineId, speaker, speakerGender)
     lines.append(l)
+
+
+print "numMen is " + str(numMen)
+print "numWomen is " + str(numWomen)
+print "numSD is " + str(numSD)
+print "numUnknown is " + str(numUnknown)
+
+flines = ""
+mlines = ""
+
+for l in lines:
+    if l.speaker_gender == "female":
+        flines += l.text_entry
+    elif l.speaker_gender == "male":
+        mlines += l.text_entry
+
+fblob = TextBlob(flines)
+mblob = TextBlob(mlines)
+
+print str(fblob.polarity) + "  female"
+print str(mblob.polarity) + "  male"
+
+
+#make the plays into pure text (totally ignore all the other information)
+for line in linestrings:
+    line = line.split(':')
+    textEntry = line[4].split('"')[1]
     
 
 
-
 #save the namedtuple as the playname file
-pickle.dump(lines, open("TheWintersTale.p", "wb"))
+pickle.dump(lines, open("AllsWellThatEndsWell.p", "wb"))
+x = pickle.load(open("AllsWellThatEndsWell.p", 'rb'))
+
+meow = ""
+
+print len(x)
+
+
+i = x[0]
+print i.text_entry
+
+#print meow[14]
 
 print len(lines)
 

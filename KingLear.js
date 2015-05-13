@@ -1,4 +1,4 @@
-var KingLear = [
+{"King Lear": [
   {
     "line_number": "", 
     "speech_number": 37, 
@@ -30127,4 +30127,4 @@ var KingLear = [
     "line_id": 52793, 
     "speaker": "Stage Directions"
   }
-]
+]}

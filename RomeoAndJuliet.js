@@ -1,4 +1,4 @@
-var RomeoAndJuliet = [
+{"Romeo and Juliet": [
   {
     "line_number": "", 
     "speech_number": 7, 
@@ -26503,4 +26503,4 @@ var RomeoAndJuliet = [
     "line_id": 88594, 
     "speaker": "Stage Directions"
   }
-]
+]}

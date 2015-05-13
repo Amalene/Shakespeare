@@ -1,4 +1,4 @@
-var MuchAdoAboutNothing = [
+{"Much Ado About Nothing": [
   {
     "line_number": "5.1.428", 
     "speech_number": 104, 
@@ -21631,4 +21631,4 @@ var MuchAdoAboutNothing = [
     "line_id": 72000, 
     "speaker": "Stage Directions"
   }
-]
+]}

@@ -1,4 +1,4 @@
-var ComedyOfErrors = [
+{"ComedyOfErrors" : [
   {
     "line_number": "", 
     "speech_number": 132, 
@@ -16439,4 +16439,4 @@ var ComedyOfErrors = [
     "line_id": 24482, 
     "speaker": "Stage Directions"
   }
-]
+]}

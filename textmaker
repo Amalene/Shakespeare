@@ -1,0 +1,13 @@
+
+
+x = pickle.load(open("TheWintersTale.p", 'rb'))
+
+meow = ""
+
+print len(x)
+
+
+i = x[0]
+print i.textEntry()
+
+#print meow[14]

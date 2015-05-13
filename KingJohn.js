@@ -1,4 +1,4 @@
-var KingJohn = [
+{"King John": [
   {
     "line_number": "5.5.97", 
     "speech_number": 11, 
@@ -22127,4 +22127,4 @@ var KingJohn = [
     "line_id": 46256, 
     "speaker": "Stage Directions"
   }
-]
+]}

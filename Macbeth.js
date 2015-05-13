@@ -1,4 +1,4 @@
-var Macbeth = [
+{"Macbeth": [
   {
     "line_number": "", 
     "speech_number": 405, 
@@ -20687,4 +20687,4 @@ var Macbeth = [
     "line_id": 58365, 
     "speaker": "Stage Directions"
   }
-]
+]}

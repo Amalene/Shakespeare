@@ -1,4 +1,4 @@
-var Pericles = [
+{"Pericles":[
   {
     "line_number": "", 
     "speech_number": 178, 
@@ -21127,4 +21127,4 @@ var Pericles = [
     "line_id": 78403, 
     "speaker": "Stage Directions"
   }
-]
+]}

@@ -1,4 +1,4 @@
-var MerchantOfVenice = [
+{"MerchantOfVenice": [
   {
     "line_number": "", 
     "speech_number": 171, 
@@ -22415,4 +22415,4 @@ var MerchantOfVenice = [
     "line_id": 64165, 
     "speaker": "Stage Directions"
   }
-]
+]}

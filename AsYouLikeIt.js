@@ -1,4 +1,4 @@
-var AsYouLikeIt = [
+{"AsYouLikeIt" : [
   {
     "line_number": "", 
     "speech_number": 114, 
@@ -22575,4 +22575,4 @@ var AsYouLikeIt = [
     "line_id": 18565, 
     "speaker": "Stage Directions"
   }
-]
+]}

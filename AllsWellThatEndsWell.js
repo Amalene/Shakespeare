@@ -1,4 +1,4 @@
-"AllsWellThatEndsWell = [
+{"AllsWellThatEndsWell" : [
   {
     "line_number": "", 
     "speech_number": 9, 
@@ -24663,4 +24663,4 @@
     "line_id": 15743, 
     "speaker": "Stage Directions"
   }
-]
+]}

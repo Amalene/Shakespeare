@@ -1,4 +1,4 @@
-var Othello = [
+{"Othello": [
   {
     "line_number": "", 
     "speech_number": 59, 
@@ -30095,4 +30095,4 @@ var Othello = [
     "line_id": 75762, 
     "speaker": "Stage Directions"
   }
-]
+]}

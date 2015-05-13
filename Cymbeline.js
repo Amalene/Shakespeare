@@ -1,4 +1,4 @@
-var Cymbeline = [
+{"Cymbeline" : [
   {
     "line_number": "", 
     "speech_number": 49, 
@@ -31663,4 +31663,4 @@ var Cymbeline = [
     "line_id": 32432, 
     "speaker": "Stage Directions"
   }
-]
+]}

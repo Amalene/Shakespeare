@@ -1,4 +1,4 @@
-var TamingOfTheShrew = [
+{"Taming Of The Shrew": [
   {
     "line_number": "", 
     "speech_number": 65, 
@@ -22447,4 +22447,4 @@ var TamingOfTheShrew = [
     "line_id": 91400, 
     "speaker": "Stage Directions"
   }
-]
+]}

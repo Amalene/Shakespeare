@@ -1,4 +1,4 @@
-var MidsummerNightsDream = [
+{"Midsummer Nights Dream": [
   {
     "line_number": "", 
     "speech_number": 75, 
@@ -18399,4 +18399,4 @@ var MidsummerNightsDream = [
     "line_id": 69296, 
     "speaker": "PUCK"
   }
-]
+]}
