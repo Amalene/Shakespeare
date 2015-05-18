@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.18)  15 MAY 2015 07:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.18)  18 MAY 2015 04:52
 entering extended mode
 **C:/Users/kroe/Documents/Shakespeare/report/journal.tex
 (C:/Users/kroe/Documents/Shakespeare/report/journal.tex
@@ -98,22 +98,36 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box27
 )
+
+! LaTeX Error: File `wrapfig.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
 \bigstrutjot=\dimen113
 )
+
+! LaTeX Error: File `lipsum.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
 (C:\Users\kroe\Documents\Shakespeare\report\journal.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -150,11 +164,11 @@ LaTeX Font Info:    ... okay on input line 36.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 62.
+(Font)              <12> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 65.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
+(Font)              <6> on input line 65.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -170,44 +184,115 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
  [2]
-Overfull \hbox (17.9804pt too wide) in paragraph at lines 120--159
+Overfull \hbox (17.9804pt too wide) in paragraph at lines 123--162
  [][] 
  []
 
-[3] <Pictures/wpl.png, id=18, 627.09282pt x 291.33844pt>
+[3]
+
+! LaTeX Error: File `comedies_line_numbers' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.185 ...dth=1.0\linewidth]{comedies_line_numbers}
+                                                  }
+? 
+
+! LaTeX Error: File `tragedies_line_numbers' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.191 ...th=1.0\linewidth]{tragedies_line_numbers}
+                                                  }
+? 
+
+! LaTeX Error: File `histories_line_numbers' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 ...th=1.0\linewidth]{histories_line_numbers}
+                                                  }
+? 
+[4] <Pictures/wpl.png, id=21, 627.09282pt x 291.33844pt>
 File: Pictures/wpl.png Graphic file (type png)
 
 <use Pictures/wpl.png>
-Package pdftex.def Info: Pictures/wpl.png used on input line 176.
-(pdftex.def)             Requested size: 334.60422pt x 155.45776pt.
- [4 <C:/Users/kroe/Documents/Shakespeare/report/Pictures/wpl.png>] (C:\Users\kr
-oe\Documents\Shakespeare\report\journal.aux)
+Package pdftex.def Info: Pictures/wpl.png used on input line 207.
+(pdftex.def)             Requested size: 418.25368pt x 194.31998pt.
+
+<Pictures/sentencelength.png, id=22, 520.94624pt x 314.67563pt>
+File: Pictures/sentencelength.png Graphic file (type png)
+
+<use Pictures/sentencelength.png>
+Package pdftex.def Info: Pictures/sentencelength.png used on input line 216.
+(pdftex.def)             Requested size: 418.25368pt x 252.64352pt.
+ [5 <C:/Users/kroe/Documents/Shakespeare/report/Pictures/wpl.png>]
+<Pictures/speechlength.png, id=26, 630.85687pt x 275.52937pt>
+File: Pictures/speechlength.png Graphic file (type png)
+
+<use Pictures/speechlength.png>
+Package pdftex.def Info: Pictures/speechlength.png used on input line 231.
+(pdftex.def)             Requested size: 418.25368pt x 182.67397pt.
+ [6 <C:/Users/kroe/Documents/Shakespeare/report/Pictures/sentencelength.png>] [
+7 <C:/Users/kroe/Documents/Shakespeare/report/Pictures/speechlength.png>] [8]
+
+! LaTeX Error: File `comedy_subjectivity' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.280 ...width=1.0\linewidth]{comedy_subjectivity}
+                                                  }
+? 
+[9]
+
+! LaTeX Error: File `absolute_polarity' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.297 ...s[width=1.0\linewidth]{absolute_polarity}
+                                                  }
+? 
+
+! LaTeX Error: File `net_polarity' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.303 ...aphics[width=1.0\linewidth]{net_polarity}
+                                                  }
+? 
+[10] (C:\Users\kroe\Documents\Shakespeare\report\journal.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 1421 strings out of 493921
- 19935 string characters out of 3144878
- 83199 words of memory out of 3000000
- 4730 multiletter control sequences out of 15000+200000
- 9485 words of font info for 33 fonts, out of 3000000 for 9000
+ 1455 strings out of 493921
+ 20462 string characters out of 3144878
+ 83185 words of memory out of 3000000
+ 4743 multiletter control sequences out of 15000+200000
+ 9445 words of font info for 33 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,7n,19p,1168b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,7n,23p,935b,261s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on journal.pdf (5 pages, 83126 bytes).
+Output written on journal.pdf (11 pages, 132077 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

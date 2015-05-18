@@ -4,5 +4,15 @@
 \contentsline {subsection}{\numberline {2.2}Analysis}{2}
 \contentsline {subsection}{\numberline {2.3}A Note on Categorization}{3}
 \contentsline {section}{\numberline {3}Results}{3}
-\contentsline {subsection}{\numberline {3.1}Words Per Line}{3}
-\contentsline {section}{\numberline {4}Conclusion}{4}
+\contentsline {subsection}{\numberline {3.1}Numerical Metrics}{3}
+\contentsline {subsubsection}{\numberline {3.1.1}Total Lines}{4}
+\contentsline {subsubsection}{\numberline {3.1.2}Words Per Line}{4}
+\contentsline {subsubsection}{\numberline {3.1.3}Sentence Length}{5}
+\contentsline {subsubsection}{\numberline {3.1.4}Speech Length}{6}
+\contentsline {subsubsection}{\numberline {3.1.5}Unique Words}{7}
+\contentsline {subsection}{\numberline {3.2}Natural Language Processing}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Parts of Speech}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Subjectivity}{9}
+\contentsline {subsubsection}{\numberline {3.2.3}Polarity}{9}
+\contentsline {section}{\numberline {4}Conclusion}{10}
+\contentsline {section}{\numberline {5}Acknowledgments}{10}
