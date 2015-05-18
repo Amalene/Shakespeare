@@ -1,0 +1,352 @@
+(dp1
+S'ComedyOfErrors'
+p2
+(lp3
+S'aemilia'
+p4
+aS'adriana'
+p5
+aS'luciana'
+p6
+asS'King Lear'
+p7
+(lp8
+S'goneril'
+p9
+aS'regan'
+p10
+aS'cordelia'
+p11
+asS'MerchantOfVenice'
+p12
+(lp13
+S'portia'
+p14
+aS'nerissa'
+p15
+aS'jessica'
+p16
+asS'Timon of Athens'
+p17
+(lp18
+S'phrynia'
+p19
+aS'timandra'
+p20
+asS'AsYouLikeIt'
+p21
+(lp22
+S'rosalind'
+p23
+aS'celia'
+p24
+aS'phebe'
+p25
+aS'audrey'
+p26
+asS'Romeo and Juliet'
+p27
+(lp28
+S'lady montague'
+p29
+aS'lady capulet'
+p30
+aS'juliet'
+p31
+aS'nurse'
+p32
+asS'Much Ado About Nothing'
+p33
+(lp34
+S'hero'
+p35
+aS'beatrice'
+p36
+aS'margaret'
+p37
+aS'ursula'
+p38
+asS'The Tempest'
+p39
+(lp40
+S'miranda'
+p41
+aS'iris'
+p42
+aS'ceres'
+p43
+aS'juno'
+p44
+asS'HenryVIII'
+p45
+(lp46
+S'queen katharine'
+p47
+aS'katharine'
+p48
+aS'anne'
+p49
+aS'queen anne'
+p50
+aS'patience'
+p51
+asS"The Winter's Tale"
+p52
+(lp53
+S'hermione'
+p54
+aS'perdita'
+p55
+aS'paulina'
+p56
+aS'emilia'
+p57
+aS'mopsa'
+p58
+aS'dorcas'
+p59
+asS'Taming Of The Shrew'
+p60
+(lp61
+S'katarina'
+p62
+aS'bianca'
+p63
+asS'JuliusCaesar'
+p64
+(lp65
+S'calpurnia'
+p66
+ag14
+asS'Coriolanus'
+p67
+(lp68
+S'volumnia'
+p69
+aS'virgilia'
+p70
+aS'valeria'
+p71
+asS'Richard II'
+p72
+(lp73
+S'queen'
+p74
+aS'duchess'
+p75
+aS'duchess of gloucester'
+p76
+asS'Cymbeline'
+p77
+(lp78
+g74
+aS'imogen'
+p79
+aS'helen'
+p80
+asS'HenryV'
+p81
+(lp82
+S'isabel'
+p83
+aS'katherine'
+p84
+aS'alice'
+p85
+asS'Twelfth Night'
+p86
+(lp87
+S'olivia'
+p88
+aS'viola'
+p89
+aS'maria'
+p90
+asS'HenryIV'
+p91
+(lp92
+S'lady percy'
+p93
+aS'lady mortimer'
+p94
+aS'mistress quickly'
+p95
+asS'Othello'
+p96
+(lp97
+S'desdemona'
+p98
+ag57
+ag63
+asS'King John'
+p99
+(lp100
+S'queen elinor'
+p101
+aS'constance'
+p102
+aS'blanch'
+p103
+aS'lady faulconbridge'
+p104
+asS'HenryVIPart2'
+p105
+(lp106
+S'queen margaret'
+p107
+ag75
+aS'margaret jourdain'
+p108
+asS'HenryVIPart3'
+p109
+(lp110
+g107
+aS'lady grey'
+p111
+aS'queen elizabeth'
+p112
+aS'lady bona'
+p113
+asS'HenryVIPart1'
+p114
+(lp115
+g37
+aS'countess'
+p116
+aS'joan la pucelle'
+p117
+asS'Titus Andronicus'
+p118
+(lp119
+S'tamora'
+p120
+aS'lavinia'
+p121
+asS'LovesLaboursLost'
+p122
+(lp123
+S'rosaline'
+p124
+ag90
+ag48
+aS'jaquenetta'
+p125
+asS'Midsummer Nights Dream'
+p126
+(lp127
+S'titania'
+p128
+aS'hippolyta'
+p129
+aS'hermia'
+p130
+aS'helena'
+p131
+asS'MerryWivesOfWindsor'
+p132
+(lp133
+S'mistress ford'
+p134
+aS'mistress page'
+p135
+aS'anne page'
+p136
+ag95
+asS'Measure For Measure'
+p137
+(lp138
+S'isabella'
+p139
+aS'mariana'
+p140
+ag31
+aS'francisca'
+p141
+aS'mistress overdone'
+p142
+asS'Pericles'
+p143
+(lp144
+S'dionyza'
+p145
+aS'thaisa'
+p146
+aS'marina'
+p147
+aS'lychorida'
+p148
+aS'bawd,'
+p149
+aS'diana'
+p150
+asS'AllsWellThatEndsWell'
+p151
+(lp152
+g116
+ag131
+ag150
+ag140
+asS'Macbeth'
+p153
+(lp154
+S'lady macbeth'
+p155
+aS'lady macduff'
+p156
+aS'hecate'
+p157
+aS'first witch'
+p158
+aS'second witch'
+p159
+aS'third witch'
+p160
+asS'Hamlet'
+p161
+(lp162
+S'gertrude'
+p163
+aS'ophelia'
+p164
+asS'Two Gentlemen of Verona'
+p165
+(lp166
+S'julia'
+p167
+aS'sylvia'
+p168
+aS'lucetta'
+p169
+asS'AntonyAndCleopatra'
+p170
+(lp171
+S'cleopatra'
+p172
+aS'octavia'
+p173
+aS'charmian'
+p174
+asS'Troilus and Cressida'
+p175
+(lp176
+g80
+aS'andromache'
+p177
+aS'cassandra'
+p178
+aS'cressida'
+p179
+asS'Richard III'
+p180
+(lp181
+g112
+aS'elizabeth'
+p182
+ag107
+ag37
+ag75
+aS'duchess of york'
+p183
+aS'lady margaret'
+p184
+as.

@@ -1,4 +1,4 @@
-var MeasureForMeasure = [
+{"Measure For Measure" : [
   {
     "line_number": "", 
     "speech_number": 23, 
@@ -23983,4 +23983,4 @@ var MeasureForMeasure = [
     "line_id": 61363, 
     "speaker": "Stage Directions"
   }
-]
+]}

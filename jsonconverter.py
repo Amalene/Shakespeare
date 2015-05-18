@@ -18,7 +18,7 @@ class Line:
         self.speaker = speaker
         self.speaker_gender = speaker_gender
 
-f = open("WintersTale.js", "r+")
+f = open("MerchantOfVenice.js", "r+")
 
 print f
 
@@ -79,7 +79,7 @@ for line in f:
 
 pythonversion = jsonpickle.decode(playstring)
 
-newfile = open('WintersTale.pkl', 'r+')
+newfile = open('MerchantOfVenice.pkl', 'r+')
 
 pickle.dump(pythonversion, newfile)
 
